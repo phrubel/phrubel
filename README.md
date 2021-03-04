@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parvez Hasan Rubel</h1>
-<p align="left"> <img src="https://pbs.twimg.com/media/DTVP994UQAAr6bw.jpg" alt="phrubel"  width="400" height="300"/> </p>
+<p align="center"> <img src="https://pbs.twimg.com/media/DTVP994UQAAr6bw.jpg" alt="phrubel"  width="400" height="300"/> </p>
 <h3 align="center">A passionate frontend developer,learner from Bangladesh</h3>
 <h5>Whenever I have the opportunity, I develop open-source projects and share them here. It is my greatest wish and happiness that my works can be a solution to people's problems.</h5>
 
