@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parvez Hasan Rubel</h1>
-<p align="left"> <img src="https://drive.google.com/file/d/1VRArzFJvDdYEruBlwtMOivIfQWQmTP7T/view" alt="phrubel" /> </p>
+<p align="left"> <img src="https://pbs.twimg.com/media/DTVP994UQAAr6bw.jpg" alt="phrubel"  width="400" height="300"/> </p>
 <h3 align="center">A passionate frontend developer,learner from Bangladesh</h3>
 <h5>Whenever I have the opportunity, I develop open-source projects and share them here. It is my greatest wish and happiness that my works can be a solution to people's problems.</h5>
 
-
-<p align="center"> <img src="https://lh3.googleusercontent.com/7SpKE5ZY6xM6xfyN0xD8pNhgn3zcz1rlYJQzxNgqTuyZmGCOPvIw2srE45k7IoHPuY14=s151" /> </p>
 
 <p align="left"> <a href="https://twitter.com/phrubel42" target="blank"><img src="https://img.shields.io/twitter/follow/phrubel42?logo=twitter&style=for-the-badge" alt="phrubel42" /></a> </p>
 
