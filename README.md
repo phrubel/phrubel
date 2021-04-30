@@ -1,5 +1,5 @@
 ## Hi there, I'm Parvez Hasan Rubel 👋
-<h3 align="center">A passionate Jr. Web Developer,learner from Bangladesh</h3>
+<h3>A passionate Jr. Web Developer,learner from Bangladesh</h3>
 
 ### I'm a LifeTime Learner,Crazy Developer !!!
 <h4>Whenever I have the opportunity, I develop open-source projects and share them here. It is my greatest wish and happiness that my works can be a solution to people's problems.</h4>
@@ -10,9 +10,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to playing carrom/Cricket.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -24,7 +21,6 @@
 <a href="https://instagram.com/https://www.instagram.com/phrubel42/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/phrubel42/" height="30" width="40" /></a>
 <a href="https://medium.com/@phrubel42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@phrubel42" height="30" width="40" /></a>
 </p>
-
 <br />
 
 ### Languages and Tools:
@@ -36,5 +32,3 @@
 <br />
 <br />
 
-
----
