@@ -13,7 +13,6 @@
 
 ### Connect with me:
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/phrubel42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="phrubel42" height="30" width="40" /></a>
 <a style="color:white;" href="https://linkedin.com/in/https://www.linkedin.com/in/parvezhasanrubel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/parvezhasanrubel/" height="30" width="40" /></a>
