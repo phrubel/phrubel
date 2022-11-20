@@ -1,5 +1,5 @@
 ## Hi there, I'm Parvez Hasan Rubel 👋
-<h3>A passionate Jr. Web Developer,learner from Bangladesh</h3>
+<h3>A passionate Web Developer,learner from Bangladesh</h3>
 
 ### I'm a LifeTime Learner,Crazy Developer !!!
 <h4>Whenever I have the opportunity, I develop open-source projects and share them here. It is my greatest wish and happiness that my works can be a solution to people's problems.</h4>
@@ -7,7 +7,7 @@
 - 🔭 I am currently learning programming-hero Web Development course!!
 - 🌱 I’m currently learning Mern Stack Web Development 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to playing carrom/Cricket.
 
 
