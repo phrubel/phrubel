@@ -57,9 +57,6 @@ Currently I am a freelance Web Developer. I am a self taught and self motivated 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phrubel&langs_count=10&theme=tokyonight&layout=compact" alt="Parvez-Hasan-Rubel :: Top Langs" /></p>
 
 
-<p align="left"><img src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>"></p>
-
-
 <br/><br/>
 
 
