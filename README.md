@@ -1,32 +1,108 @@
-## Hi there, I'm Parvez Hasan Rubel 👋
-<h3>A passionate Web Developer,learner from Bangladesh.</h3>
 
-### I'm a LifeTime Learner,Crazy Developer !!!
-<h4>Whenever I have the opportunity, I develop open-source projects and share them here. It is my greatest wish and happiness that my works can be a solution to people's problems.</h4>
-
-- 🔭 I am complete programming-hero Web Development course & get black-belt award!!
-- 🌱 I’m currently learning Mern Stack Web Development. 🤣
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to playing carrom/Cricket.
-
-
-### Connect with me:
-
-<p align="left">
-<a href="https://twitter.com/phrubel42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="phrubel42" height="30" width="40" /></a>
-<a style="color:white;" href="https://linkedin.com/in/https://www.linkedin.com/in/parvezhasanrubel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/parvezhasanrubel/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/parvezhasanrubel42/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://web.facebook.com/parvezhasanrubel42/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/phrubel42/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/phrubel42/" height="30" width="40" /></a>
-<a href="https://medium.com/@phrubel42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@phrubel42" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
-<br />
 
-### Languages and Tools:
+<!--
+### Hi there 👋, my name is Parvez Hasan Rubel
+Currently I am a freelance Web Developer. I am a self taught and self motivated developer. Now, I'm Proficient in creative  design and building responsive web apps. I never stopped engaging myself to enhance my skills.
+Skills: REACT / REACT-NATIVE / JS / HTML / CSS
+- 🔭 I’m currently working on javascript framework/libraries 
+- 🌱 I’m currently learning MERN stack 
+- 🤔 I’m looking for help with React Projects  
+-->
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Salam,<h2> I'm Parvez Hasan Rubel</h2>
+Currently I am a freelance Web Developer. I am a self taught and self motivated developer. Now, I'm Proficient in creative  design and building responsive web apps. I never stopped engaging myself to enhance my skills.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻 About Me </h3>
+
+- 🔭 I’m currently working on javascript framework/libraries 
+
+- 🤔 &nbsp; Exploring new technologies.
+
+- 🌱 &nbsp; Learning about creative design and MERN stack development.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
 
-<br />
-<br />
 
+<h3>🛠 Tech Stack</h3>
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJs | React-native | Tailwind css | Bootstrap
+
+- 🖥 &nbsp; Figma | Framer | AE
+
+- 💻 &nbsp;  | C | MongoDB
+
+- 🛢 &nbsp; MySQL | MongoDB
+
+- 🔧 &nbsp; Git | Markdown 
+
+- 🖥 &nbsp; Illustrator| Photoshop 
+
+
+<h3>🛠 To Learn</h3>
+- 🔧 &nbsp; AWS | Backend development  | Docker🐳
+
+<hr>
+
+<h4 align="left">Visitor's count :eyes:</h4>
+
+<p align="left"><img src="https://profile-counter.glitch.me/{phrubel}/count.svg"  alt="PH-Rubel :: Visitor's Count" /></p>
+
+<h4 align="left">Top langs :tongue:</h4>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phrubel&langs_count=10&theme=tokyonight&layout=compact" alt="Parvez-Hasan-Rubel :: Top Langs" /></p>
+
+
+<p align="left"><img src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>"></p>
+
+
+<br/><br/>
+
+
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+ <!-- -  &nbsp; <a href="" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a> <br> -->
+
+-  &nbsp; <a href="https://www.linkedin.com/in/parvezhasanrubel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-parvezhasanrube-blue?style=flat&logo=linkedin"></a> <br>
+
+-  &nbsp;<a href="https://www.facebook.com/parvezhasanrubel42/" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Facebook-parvezhasanrubel42-blue?style=flat&logo=Facebook"></a> 
+ 
+-  &nbsp; <a href="https://www.instagram.com/phrubel42/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-phrubel42.jsx-blue?style=flat&logo=instagram"></a>
+
+-  &nbsp; <a href="mailto:phrubel42@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-phrubel42@gmail.com-blue?style=flat&logo=gmail"></a>
+
+
+
+<p align="center">
+  
+
+  
+
+  
+
+  
+
+</p>
+
+
+
+
+
+
+
+
+
+<hr>
+
+⭐️ From [@phrubel](https://github.com/phrubel)
