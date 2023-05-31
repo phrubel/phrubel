@@ -32,11 +32,9 @@ Currently I am a freelance Web Developer. I am a self taught and self motivated 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJs | React-native | Tailwind css | Bootstrap
 
-- 🖥 &nbsp; Figma | Framer | AE
+- 🖥 &nbsp; Figma | Framer
 
-- 💻 &nbsp;  | C | MongoDB
-
-- 🛢 &nbsp; MySQL | MongoDB
+- 💻 &nbsp;  C | MongoDB
 
 - 🔧 &nbsp; Git | Markdown 
 
